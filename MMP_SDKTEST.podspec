@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "MMP-SDKTEST" 	#pod名称
+  spec.name         = "MMP_SDKTEST" 	#pod名称
   spec.version      = "3.3.7"										#pod版本
   spec.summary      = "用于pod FaceID MegviiStill活体验证 SDK"	#简介，需要更改，不然会报警告
 
@@ -30,7 +30,7 @@ SDK版本 MegLiveStill 3.3.3I[当前需要联网授权]
 SDK说明：SDK支持的系统最低要求是iOS 8.0，只支持真机架构(arm64和armv7)，不支持模拟器架构(x86_64和i386)。
                    DESC
 
-  spec.homepage     = "https://github.com/mymaple/MMP-SDKTEST"	# 项目主页
+  spec.homepage     = "https://github.com/mymaple/MMP_SDKTEST"	# 项目主页
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -82,7 +82,7 @@ SDK说明：SDK支持的系统最低要求是iOS 8.0，只支持真机架构(arm
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/mymaple/MMP-SDKTEST.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/mymaple/MMP_SDKTEST.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
