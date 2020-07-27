@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "MMP_SDKTEST" 	#pod名称
-  spec.version      = "3.3.7"										#pod版本
+  spec.version      = "3.3.8"										#pod版本
   spec.summary      = "用于pod FaceID MegviiStill活体验证 SDK"	#简介，需要更改，不然会报警告
 
   # This description is used to generate tags and improve search results.
